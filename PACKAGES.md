@@ -4,4 +4,4 @@
 * miniupnpc
 * libminiupnpc-dev
 * libpcap-dev
-* 
+* libjansson-dev 
